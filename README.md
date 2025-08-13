@@ -11,7 +11,7 @@
 - AI4S 领域前沿论文复现与加速
 
 ### 生态破局
-- 将 CUDA AI 开源软件迁移至国产 MXMACA 软件栈
+- 将 CUDA AI 开源软件迁移至国产开源MACA软件栈
 
 ### 生态繁荣
 - Jax 模型迁移至 PyTorch

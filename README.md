@@ -16,7 +16,7 @@
 ### 生态繁荣
 - Jax 模型迁移至 PyTorch生态
 - 参与MinerU开源社区上游贡献支持MACA软件栈，例如：https://gitee.com/ccf-ai-infra/GPUApps/issues/ICUVB2
-- 参与InfiniCore开源项目的上游贡献支持MACA软件栈
+- 参与InfiniCore开源项目的上游贡献支持MACA软件栈，例如项目主仓库：https://github.com/InfiniTensor/InfiniCore, 参考的迁移方式见主仓库的其他算子迁移到metax的方式以及：https://github.com/wawahejun/InfiniCore-Intern, 项目文档与概况详见：[DEV.md](./docs/InfiniCore-Documentation/DEV.md)
 - 参与github.com/MetaX-MACA组织的开源项目上游贡献，例如：https://github.com/MetaX-MACA/vLLM-metax/issues/7
 
 ### 可参考项目列表

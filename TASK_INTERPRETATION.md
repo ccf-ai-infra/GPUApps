@@ -56,7 +56,7 @@
 
 ###  2.1 提交Issue
 内容如下
-![alt text](image.png)
+![alt text](assets/image.png)
 
 ```
 ### 你提交的赛题的内容介绍 
